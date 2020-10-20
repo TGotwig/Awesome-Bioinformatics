@@ -1,0 +1,9 @@
+{
+  "aliveStatusCodes": [200, 206, 429],
+  "ignorePatterns": [
+		{
+			"pattern": "^http://nextflow.io",
+			"pattern": ".*(broadinstitute.org).*"
+		}
+	]
+}
